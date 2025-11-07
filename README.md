@@ -17,6 +17,8 @@
 
 ---
 
+<img width="1402" height="1068" alt="图片" src="https://github.com/user-attachments/assets/fbee7718-5f4d-4cdf-8ff2-c634a49839e7" />
+
 ## 🖥️ 使用方法
 
 1. **运行程序**
